@@ -35,3 +35,7 @@ Slight performance gained through this approach. Codes can be found in nbody_4.p
 ## Optimized Version
 
 This version combines all changes to the other versions. Overall processing time slightly above 30 seconds. Relative speed up (i.e. time to run original / time to run optimized version) is around 3. Codes can be found in nbody_opt.py.
+
+## Test Script
+
+An additional test script is included to prompt user for which script to execute and return the time taken. Codes can be found in nbody_test.py
